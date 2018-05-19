@@ -1,10 +1,10 @@
 @title[Title]
 
-# Resource Barriers!
+# Resource Barriers
 
 (For modern graphics API's)
 
-<span class="primary"><strong>Viktor Zoutman</strong></span>, November 20 2017
+<span cla<strong>Viktor Zoutman</strong></span>, November 20 2017
 
 ---
 
@@ -24,6 +24,7 @@
 ## "Barrier"
 - Synchronization point
 - Fence
+
 
 ## "Memory Barrier"
 - Lock free programming
@@ -60,6 +61,8 @@
 - Higher throughput
 - Flush / Wait for idle |
 - Bloom
+
+---
 
 @title[Caches]
 
